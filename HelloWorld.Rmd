@@ -1,0 +1,16 @@
+---
+title: "first_Rmarkdown"
+author: "gpriya-dharsh"
+date: "TODAY"
+output:
+  word_document: default
+  pdf_document: default
+---
+
+## This is a markdown file
+ 
+## This being a trial,let's experiment some basic text formats in Rmarkdown.
+
+## Text appears **bold** when enclosed within **
+
+## Text appears *italic* when enclosed within *
